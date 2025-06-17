@@ -37,7 +37,7 @@ README.md
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/pizza-api-challenge.git
+   git clone https://github.com/edwinndungu2/pizza-api-challenge.git
    cd pizza-api-challenge
    ```
 
